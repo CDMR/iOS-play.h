@@ -6,9 +6,12 @@ var b:Bool = true
 var c:Float=1
 var d:Double=6
 var e:1
+
 print(a+c)
 print(a-c)
 print(a*c)
+if c!=0{
 print(a/c)
+}
 let pi = 3.14159265359
 let phi= 1.61803398874
