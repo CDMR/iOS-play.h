@@ -6,7 +6,6 @@ var b:Bool = true
 var c:Float=1
 var d:Double=6
 var e:1
-
 print(a+c)
 print(a-c)
 print(a*c)
@@ -15,3 +14,62 @@ print(a/c)
 }
 let pi = 3.14159265359
 let phi= 1.61803398874
+let prefijo=["yotta", "zetta", "exa", "peta", "tera", "giga", "mega", "kilo", "hecto", "deca", none, "deci", "mili", "micro", "nano", "pico", "femto", "atto", "zepto", "yocto"]
+//Sistema de unidades
+//Internacional, métrico decimal, Cegesimal, Natural, Anglosajón, atómicas, UsadasenAstronomía,De masa,De medida de energía 
+
+// UnidadFundamental 
+let Longitud=
+let Tiempo=
+let Masa=
+let Intensidadcorriente=
+let Temperatura=
+let Cantidadsustancia=
+let Intensidadluminosa=
+
+// Unidaderivadas 
+let Fuerza=
+let Presión=
+let Trabajo=
+let Potencia=
+let Cargaelectrica=
+let Potencialeléctrico=
+let Resistenciaeléctria=
+let Conductanciaeléctrica=
+let Inducciónmagnética=
+let Flujomagnético=
+let Inductancia=
+let Ánguloplano=
+let Ángulosólido=
+let Flujoluminoso=
+let Luminosidad=
+let Actividadradiactiva=
+let Dosisabsorbidaderadiaciónionizante=
+let Equivalenciadedosisderadiaciónionizante=
+let Actividadcatalítica=
+let Área=
+let Volumen=
+let Velocidad=
+let Velocidadangular=
+let Aceleración=
+let Momentodefuerza=
+let Densidad=
+let Volumen específico=
+let Flujovolumetrico=
+let Concentración=
+let Volumenmolar=
+let Energíamolar=
+let Energíaespecifica=
+let Densidaddeenergia=
+let Tensiónsuperficial=
+let Irradiancia=//Densidad de flujo de calor
+let Conductividadtérmica=//
+let Viscosidadcinemática=//
+let Viscosidaddinámica=//
+let Permeabilidad=//
+let Intensidaddecamo=//
+let Luminancia=//
+let Exposición=//rayosx y gamma
+let Tasadedosisabsorbida=//
+
+
