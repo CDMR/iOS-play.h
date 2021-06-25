@@ -19,21 +19,21 @@ let prefijo=["yotta", "zetta", "exa", "peta", "tera", "giga", "mega", "kilo", "h
 //Internacional, métrico decimal, Cegesimal, Natural, Anglosajón, atómicas, UsadasenAstronomía,De masa,De medida de energía 
 
 // UnidadFundamental 
-let Longitud=
-let Tiempo=
-let Masa=
-let Intensidadcorriente=
-let Temperatura=
+let Longitud=metros, pulgadas , hectareas, anos luz) 
+let Tiempo=(velas, ciclos, segundos)
+let Masa=(Kg Lb)
+let Intensidadcorriente= Amaper
+let Temperatura=Celcius Farenheid
 let Cantidadsustancia=
-let Intensidadluminosa=
+let Intensidadluminosa= fotones
 
 // Unidaderivadas 
-let Fuerza=
-let Presión=
-let Trabajo=
-let Potencia=
-let Cargaelectrica=
-let Potencialeléctrico=
+let Fuerza= Kg Lb 
+let Presión= Pascales
+let Trabajo= Joules
+let Potencia= Watts
+let Cargaelectrica= 
+let Potencialeléctrico= 
 let Resistenciaeléctria=
 let Conductanciaeléctrica=
 let Inducciónmagnética=
